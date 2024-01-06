@@ -1,4 +1,4 @@
-<img  align="right" src="https://lanyard.cnrad.dev/api/1129463131689721927?idleMessage=%22Work%20Smart%20Not%20Hard.%22&borderRadius=25px" />
+<img  align="right" src="https://lanyard.cnrad.dev/api/984502632976633876?idleMessage=%22Work%20Smart%20Not%20Hard.%22&borderRadius=25px" />
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vbqryocteapskx6xadzfeg5l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
