@@ -21,8 +21,8 @@
 - 🐧 Watching Anime
 </br>
 
-<a href="https://discord.gg/11pms" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/984502632976633876.png"/></a>
-<a href="https://discord.gg/11pms" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=anaglyph&color=%239F33CF&lines=%F0%9F%91%8B+Hi+there!+I'm+z%E2%82%ACr0;Add+Me+!">
+<a href="https://discord.gg/rav" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/984502632976633876.png"/></a>
+<a href="https://discord.gg/rav" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=anaglyph&color=%239F33CF&lines=%F0%9F%91%8B+Hi+there!+I'm+z%E2%82%ACr0;Add+Me+!">
 
 
-<a href="https://discord.gg/11pms" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://discord.gg/rav" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
