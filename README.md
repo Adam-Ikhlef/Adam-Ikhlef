@@ -1,6 +1,6 @@
 ### Now Playing 🎧
 
-<img  align="right" src="https://lanyard.cnrad.dev/api/984502632976633876?idleMessage=%22Work%20Smart%20Not%20Hard.%22&borderRadius=25px" />
+<img  align="left" src="https://lanyard.cnrad.dev/api/984502632976633876?idleMessage=%22Work%20Smart%20Not%20Hard.%22&borderRadius=25px" />
 
 
 
