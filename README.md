@@ -1,15 +1,5 @@
 ### Now Playing 🎧
 
-<img  align="left" src="https://lanyard.cnrad.dev/api/984502632976633876?idleMessage=%22Work%20Smart%20Not%20Hard.%22&borderRadius=25px" />
-
-
-
-
-
-
-
-
-
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
@@ -29,7 +19,7 @@
 </br>
 
 <a href="https://discord.gg/rav" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/984502632976633876.png"/></a>
-<a href="https://discord.gg/rav" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+There!;I'm+Adam!;Add+Me!">
+<a href="https://discord.gg/rav" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!;I'm+Adam!;Nice+to+see+you!">
 
 
 <a href="https://discord.gg/rav" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
