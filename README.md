@@ -14,7 +14,7 @@
 - 🐧 Watching Anime
 </br>
 
-<a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/984502632976633876.png"/></a>
+<a href="#" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/801787776914948168.png"/></a>
 <a href="#" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!;I'm+Adam!;Nice+to+see+you!">
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Social Media</h1>
